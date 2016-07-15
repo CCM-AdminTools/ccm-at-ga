@@ -1,0 +1,21 @@
+
+{
+  "name": "google-analytics-integration-demo",
+  "version": "0.0.1",
+  "description": "google analytics integration demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "hapi": "^12.1.0",
+    "inert": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {}
+}
